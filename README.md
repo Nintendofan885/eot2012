@@ -6,7 +6,7 @@ This is the public repository for the End of Term Web Archive project. The End o
 ## Collecting Scope
 The End of Term Web Archive contains federal government websites (.gov, .mil, government websites not on the .gov domain, government social media accounts, public-nominated government sites, etc.) in the Legislative, Executive, or Judicial branches of the government. Local or state government websites or any other sites not part of the federal government domain are considered out of scope; however, some websites exist in a liminal space that makes "official" federal status hard to determine. The website seed lists published in this repository represent the full extent of the sites selected for archiving.
 
-The project also solicits public nominations of websites to include in the archive. The online nomination tool for 2020 can be found at [End of Term 2012 Nomination Tool](https://digital2.library.unt.edu/nomination/eth2012/about/). 
+The project also solicits public nominations of websites to include in the archive. The online nomination tool for 2012 can be found at [End of Term 2012 Nomination Tool](https://digital2.library.unt.edu/nomination/eth2012/about/). 
 
 ## Project Scope
 The project has two phases: A broad, comprehensive baseline crawl of identified websites and more selective, focused crawls based on priorities established by the partners.
@@ -16,7 +16,7 @@ The project has two phases: A broad, comprehensive baseline crawl of identified 
 
 ## Access
 * The [End of Term Web Archive](http://eotarchive.cdlib.org/index.html) portal provides access to archived sites collected as part of the project.
-* The online nomination tool for 2020 can be found at [End of Term 2020 Nomination Tool](https://digital2.library.unt.edu/nomination/eth2012/about/).
+* The online nomination tool for 2012 can be found at [End of Term 2012 Nomination Tool](https://digital2.library.unt.edu/nomination/eth2012/about/).
 
 ## Presentations & Papers
 * 2016-12-02: "[After the Harvest: Preservation, Access, and Researcher Services for the 2016 End of Term Archive](https://docs.google.com/presentation/d/1_eBnTjaTeFnD5diGhIWDy00Vgousffl5kCF-ErZ0wZ0/edit#slide=id.g153e4cbb38_0_0)" at [CNI Fall 2016 Meeting](https://www.cni.org/events/membership-meetings/past-meetings/fall-2016).
